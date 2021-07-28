@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367980227116",
+    "project_id": "invoiceapp-3ab0e",
+    "storage_bucket": "invoiceapp-3ab0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367980227116:android:65438bb02325306363ff89",
+        "android_client_info": {
+          "package_name": "com.gapss.invoiceapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367980227116-sau862oblv3i2oubqtg7a4qt68pjv8j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClh0ZzbEyGUzIrXO9LO3V-kxHf39tMck8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367980227116-sau862oblv3i2oubqtg7a4qt68pjv8j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name = "InvoiceApplication2"
+include ':app'

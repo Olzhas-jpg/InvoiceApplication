@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InvoiceApplication2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invoice_app">Invoice App</string>
+    <string name="login">Login</string>
+    <string name="forgot_the_password">Forgot the password?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="product_name">Product name</string>
+    <string name="code">Code</string>
+    <string name="add">Add</string>
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="register_user">Register User</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="reset">Reset</string>
+    <string name="enter_text">Enter text</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="add_product">Add product</string>
+    <string name="scan_something">Scan something...</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
